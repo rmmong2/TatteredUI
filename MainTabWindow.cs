@@ -21,9 +21,7 @@ namespace TatteredUI
                 List<Apparel> tempApparel = p.apparel.WornApparel; 
                 for (int i = 0; i < tempApparel.Count; i++)
                 {
-                    double percent = 0;
-                    percent = (tempApparel[i].HitPoints / tempApparel[i].MaxHitPoints);
-                    if(percent < 0.5)
+                    if(tempApparel[i].HitPoints < (.5 * tempApparel[i].MaxHitPoints))
                     {
                         Log.Message(tempApparel[i].Label);
                     }
