@@ -1,0 +1,5 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\TatteredUI\Assemblies\TatteredUI.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\TatteredUI\Source\ClassLibrary1\obj\Debug\TatteredUI.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\TatteredUI\Source\ClassLibrary1\obj\Debug\TatteredUI.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\TatteredUI\Source\ClassLibrary1\obj\Debug\TatteredUI.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\TatteredUI\Source\ClassLibrary1\obj\Debug\TatteredUI.csproj.CopyComplete

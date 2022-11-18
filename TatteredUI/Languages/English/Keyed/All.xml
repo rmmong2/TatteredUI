@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	
+	<TatteredUI.GUI.Label>Label</TatteredUI.GUI.Label>
+	
+	<TatteredUI.GUI.Icon>Icon</TatteredUI.GUI.Icon>
+	
+	<TatteredUI.GUI.ApparelLayerDef>Layer</TatteredUI.GUI.ApparelLayerDef>
+	
+	<TatteredUI.GUI.Mod>Mod</TatteredUI.GUI.Mod>
+	
+	<TatteredUI.GUI.Null>No</TatteredUI.GUI.Null>
+	
+	<TatteredUI.GUI.Unknown>Unknown</TatteredUI.GUI.Unknown>
+	
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+    <MainButtonDef>
+        <defName>Tattered_Main_Tab</defName>
+        <label>Apparel tab</label>
+        <description>Window to show tattered apparrel counts.</description>
+        <tabWindowClass>TatteredUI.Tattered_MainTabWindow</tabWindowClass>
+        <order>110</order>
+        <validWithoutMap>true</validWithoutMap>
+        <minimized>True</minimized>
+        <iconPath>GUI/ApparelTab_ApparelTabIcon</iconPath>
+    </MainButtonDef>
+
+</Defs>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>TatteredUI</name>
+  <author>ProtoBob</author>
+  <packageId>ProtoBob.TatteredUI</packageId>
+  <description>Mod to display tattered apparel as drop down</description>
+  <supportedVersions>
+    <li>1.3</li>
+  </supportedVersions>
+  <modDependencies>
+  </modDependencies>
+  <loadBefore>
+  </loadBefore>
+  <loadAfter>
+  </loadAfter>
+  <incompatibleWith>
+  </incompatibleWith>
+</ModMetaData>
